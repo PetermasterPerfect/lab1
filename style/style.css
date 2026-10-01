@@ -1,0 +1,47 @@
+* {
+    margin: 0 3% 2px 3%;
+    padding: 0 0 0 0;
+}
+
+
+body {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    font-size: 20px;
+    text-align: center;
+    background-color: pink;
+    border-style: solid;
+    border-width: 2px;
+    border-color: red;
+}
+
+h2 {
+    font-size: 20px;
+    background-color: green;
+}
+
+h3 {
+    font-size: 16px;
+    background-color: blue;
+}
+
+h4,h5 {
+    font-size: 14px;
+    background-color: yellow;
+}
+
+li {
+    font-size: 12px;
+    color: red;
+    padding-left: 32px;
+    margin-bottom: 0;
+    background-color: lightyellow;
+}
+
+li span {
+    display: block;
+    margin-left: -5%;
+    color: rgb(180, 0, 0);
+}
